@@ -1,0 +1,9 @@
+{
+  "tauri": {
+    "allowlist": {
+      "notification": {
+        "all": true
+      }
+    }
+  }
+}
